@@ -46,13 +46,10 @@
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?logo=davinciresolve&logoColor=white)
 ![DaVinci Resolve Studio](https://img.shields.io/badge/DaVinci%20Resolve%20Studio-233A51?logo=davinciresolve&logoColor=white)
 
-## Github Stats
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=matimh&theme=dark)](https://git.io/streak-stats)
-
 ## Contact
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1263214667027709972)
-[![Mail](https://img.shields.io/badge/Email-3693F3?logo=icloud&logoColor=white)](mailto:mh.mateusz@icloud.com)
+[![Mail](https://img.shields.io/badge/Email-3693F3?logo=icloud&logoColor=white)](mailto:hey@mhscripts.dev)
 
   ## 💰 You can help me by Donating
 💜 Support / Donate
