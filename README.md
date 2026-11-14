@@ -1,18 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mateusz!</h1>
+<h1 ">Hi, I'm Mateusz.</h1>
 
-# 💫 About Me:
-♥️ I’m currently working on [matimh.eu](https://matimh.eu)
-
-# 📈 My Projects:
-- [matimh.eu](https://matimh.eu)
-  Personal portfolio showcasing my work, skills, and development journey. Designed with performance, simplicity, and clean UI in mind.
-  
-- [volleystats](https://vstats.matimh.eu)
-   A powerful application built to support referees and tournament organizers in managing volleyball competitions efficiently.
-  
-- [mhscripts.dev](https://mhscripts.dev)
-  An tebex shop offering premium custom scripts for FiveM servers.
-
+### - 📈 Portfolio:
+- [matimh.eu](https://matimh.eu) | [matimh.fun](https://matimh.fun)
 
 # 💻 Tech Stack:
 
@@ -49,9 +38,4 @@
 ## Contact
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1263214667027709972)
-[![Mail](https://img.shields.io/badge/Email-3693F3?logo=icloud&logoColor=white)](mailto:hey@mhscripts.dev)
-
-  ## 💰 You can help me by Donating
-💜 Support / Donate
-
-[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/matilispee)
+[![Mail](https://img.shields.io/badge/Email-3693F3?logo=icloud&logoColor=white)](mailto:hello@matimh.fun)
