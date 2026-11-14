@@ -5,13 +5,13 @@
   </a>
 </p>
 
-## / best projects
+# / best projects
 | Project | Description | Stack |
 |:--|:--|:--|
 | [matimh.eu](https://matimh.eu) | Personal portfolio | Next.js, GSAP |
-| [exactrp.pl](https://exactrp.pl) | fivem server | Next.js @mhdesign |
-| [VolleyStats](https://referee.matimh.eu) | Volleyball platform | Next.js, PostgreSQL |
-| [Silesiavolley](https://tickets.exactrp.pl/) | Support (helpdesk) platform | Next.js, PostgreSQL |
+| [exactrp.pl](https://exactrp.pl) | FiveM Server | Next.js, forked mantine |
+| [VolleyStats](https://referee.matimh.eu) | Volleyball referee platform | Next.js, PostgreSQL |
+| [CH](https://ch.matimh.eu) | Advanced app for cheat scans | Next.js, Rust |
 | [Worldwide](https://wwgportal.com) | Giveaway platform | Next.js, Supabase |
 
 
