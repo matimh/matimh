@@ -5,7 +5,7 @@
   </a>
 </p>
 
-# / best projects
+# /best projects
 | Project | Description | Stack |
 |:--|:--|:--|
 | [matimh.eu](https://matimh.eu) | Personal portfolio | Next.js, GSAP |
