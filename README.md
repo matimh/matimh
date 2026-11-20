@@ -9,6 +9,7 @@
 | Project | Description | Stack |
 |:--|:--|:--|
 | [matimh.eu](https://matimh.eu) | Personal portfolio | Next.js, GSAP |
+| [matimh.fun](https://matimh.fun) | 46 web tools: network, FiveM, Discord, images, dev | Next.js, @mhdesign |
 | [exactrp.pl](https://exactrp.pl) | FiveM Server | Next.js, forked mantine |
 | [VolleyStats](https://referee.matimh.eu) | Volleyball referee platform | Next.js, PostgreSQL |
 | [CH](https://ch.matimh.eu) | Advanced app for cheat scans | Next.js, Rust |
@@ -66,4 +67,4 @@
 # /github analistics
 <img src="https://ghstats.dev/api/card?username=matimh" alt="GitHub Stats Card" />
 <img src="https://ghstats.dev/api/langs?username=matimh" alt="Top Languages" />
-<sub>© 2026 matimh · matimh.eu</sub>
+<sub>© 2026 matimh · matimh.eu · matimh.fun</sub>
